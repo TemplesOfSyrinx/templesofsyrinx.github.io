@@ -8,7 +8,7 @@ TOS Organization Website
 * [HTML Site in main /docs](https://templesofsyrinx.github.io/html-site-in-main-docs/)
 * [HTML Site in gh-pages](https://templesofsyrinx.github.io/html-site-in-gh-pages/)
 
-## Site Templatess using [RevealJS](https://revealjs.com/ "Many of the Sites are built using this Libray")
+## Site Templates using [RevealJS](https://revealjs.com/ "Many of the Sites are built using this Libray")
 
 * [RevealJS Site in main](https://templesofsyrinx.github.io/revealjs-site-in-main/)
 * [RevealJS Site in main /docs](https://templesofsyrinx.github.io/revealjs-site-in-main-docs/)
